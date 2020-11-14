@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "fe-exam",
+  "description": "Alipay FE exams for interview",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
